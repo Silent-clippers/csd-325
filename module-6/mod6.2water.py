@@ -5,6 +5,7 @@ Inspired by Nicky Case's Emoji Sim http://ncase.me/simulating/model/
 Tags: short, bext, simulation"""
 
 # forest fire sim with lake in forest
+# Keanu Foltz, Carmen Mendoza, Steve Stylin 11/24/24 CSD-325
 
 import random, sys, time
 
